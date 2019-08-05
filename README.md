@@ -1,1 +1,2 @@
 # Samling av Python Notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sskagemo/python-notebooks/master?filepath=https%3A%2F%2Fraw.githubusercontent.com%2Fsskagemo%2Fpython-notebooks%2Fmaster%2FdemoPythonFDK.ipynb)
